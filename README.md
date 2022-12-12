@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohamedAbd-elazem
-- 👀 I’m interested in cooding 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning embedded systems
 - 📫 How to reach me to the top 
 
